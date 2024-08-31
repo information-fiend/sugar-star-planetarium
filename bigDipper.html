@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="style.css" />
+  <meta name="viewport" content="width-device-width, initial-scale=1">
+  <title>The Big Dipper</title>
+  <link rel="favicon" href="image/favicon.ico" />
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background-color: #B8C0FF;
+    }
+
+    .topnav {
+      overflow: hidden;
+      background-color: #E7C6FF;
+      position: fixed;
+      width: 100%;
+    }
+
+    .topnav a {
+      float: left;
+      color: black;
+      background-color: transparent;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 25px;
+    }
+
+    .topnav a.active {
+      color: black;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+
+    .topnav a:hover {
+      color: #922FF6;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+
+    .topnav a:active {
+      color: #C3FF55;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+
+    .column {
+      margin-top: 60px;
+      float: left;
+      width: 50%;
+      padding: 15px;
+    }
+
+    .row::after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    @media screen and (max-width:600px) {
+      .topnav {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <!-- NAVIGATION -->
+  <div class="topnav">
+    <a href="index.html">Home</a>
+    <a href="theZodiacs.html">The Zodiacs</a>
+    <a href="the88Constellations.html">The 88 Constellations</a>
+    <a href="bigDipper.html" class="active">The Big Dipper</a>
+    <a href="sourcesCitations.html">Sources</a>
+  </div>
+
+  <!-- BIG DIPPER INFO -->
+  <div class="row">
+    <div class="column">
+      <h1>The Big Dipper: Not a<br>Constellation</h1>
+      <p style="font-size: 22px;line-height: 1.5;">The Big Dipper isn't a constellation but rather an asterism, a
+        recognizable pattern of stars that is part of the larger constellation Ursa Major. Asterisms like the Big Dipper
+        are often easier to spot, but they don't define a specific area of the sky like official constellations do.</p>
+      <p>Image: (“Flat Big Dipper Constellation”)</p>
+    </div>
+
+    <div class="column">
+      <img src="image/bigDipper.png" alt="The Big Dipper" style="width: 400px; height: 400px;">
+    </div>
+  </div>
+
+</body>
+
+</html>

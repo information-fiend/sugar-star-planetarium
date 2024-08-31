@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="style.css" />
+  <meta name="viewport" content="width-device-width, initial-scale=1">
+  <title>Sugar Star Planetarium</title>
+  <link rel="favicon" href="image/favicon.ico" />
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+    }
+
+    #myTitle {
+      color: black;
+      font-size: 74px;
+      margin-bottom: 0px;
+      margin-top: 150px;
+    }
+
+    #subTitle {
+      font-size: 25px;
+      color: black;
+    }
+
+    .topnav {
+      overflow: hidden;
+      background-color: #E7C6FF;
+      position: fixed;
+      width: 100%;
+    }
+
+    .topnav a {
+      float: left;
+      color: black;
+      background-color: transparent;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 25px;
+    }
+
+    .topnav a.active {
+      color: black;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+
+    .topnav a:hover {
+      color: #922FF6;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+
+    .topnav a:active {
+      color: #C3FF55;
+      background-color: transparent;
+      text-decoration: underline;
+    }
+
+    .column {
+      float: left;
+      width: 40%;
+      padding: 15px;
+    }
+
+    .row::after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+
+    .bgMusic {
+      background-color: #B8C0FF;
+      padding: 20px;
+      margin-top: 100px;
+    }
+
+    @media screen and (max-width:600px) {
+      .column {
+        width: 100%;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <!-- NAVIGATION -->
+  <div class="topnav">
+    <a href="index.html" class="active">Home</a>
+    <a href="theZodiacs.html">The Zodiacs</a>
+    <a href="the88Constellations.html">The 88 Constellations</a>
+    <a href="bigDipper.html">The Big Dipper</a>
+    <a href="sourcesCitations.html">Sources</a>
+  </div>
+
+  <!-- First two columns: TITLE AND IMG -->
+  <div class="row">
+    <div class="column">
+      <img src="image/Graphicstar.png" alt="shiny star" style="width:250px;margin-top: 100px;margin-left: 100px;">
+      <p>Image: (sketchify)</p>
+    </div>
+
+    <div class="column">
+      <p id="myTitle">Sugar Star<br>Planetarium</p>
+      <p id="subTitle">A guide to recognizing constellations</p>
+    </div>
+  </div>
+
+  <!-- 021 SUGAR STAR PLANETARIUM: OMORI OST -->
+  <div class="bgMusic">
+    <p>(“OMORI OST - 021 Sugar Star Planetarium”)</p>
+    <audio controls>
+      <source src="OMORI OST - 021 Sugar Star Planetarium.mp3" type="audio/mpeg" </audio>
+  </div>
+
+  <!-- QUICK CONSTELLATION DESCRIPTION -->
+  <div style="background-color:#BBD0FF;padding:100px;">
+    <h1>What are constellations?</h1>
+    <p style="font-size:22px;">Simply put, constellations are a group of stars that were thought to<br>form certain
+      objects and animals. They appear based on your location and the time of year.</p>
+    <p style="font-size:22px;">During ancient times, people used astrology as tools for survival.<br>Many cultures had
+      different stories and uses for these stars. Today,<br>the International Astronomical Union has defined 88
+      official<br>constellations. Although humans don’t require the use of stars for<br>survival anymore, scientists and
+      robots still use them for<br>space navigation!</p>
+  </div>
+
+
+</body>
+
+</html>
