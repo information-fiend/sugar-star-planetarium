@@ -1,6 +1,9 @@
 # Sugar Star Planetarium
 > A little guide to constellations. Inspired by OMORI, made for HackClub Boba Drops.
 > Hosted on Github Pages: [_over here_](https://information-fiend.github.io/sugar-star-planetarium/).
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
+</p>
 
 ## Table of Contents
 * [General Info](#general-information)
