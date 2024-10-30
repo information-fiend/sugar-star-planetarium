@@ -23,14 +23,14 @@
 </p>
 
 ## 🎨 Pallete 
-|     | Color | Hex |
-|----| --- | ----------- |
-|<img src="https://github.com/user-attachments/assets/18ac0d6e-c5ea-4245-9ca2-33849e668057" width="30">| Purple | `#cdb4db`|
-|<img src="https://github.com/user-attachments/assets/b2e9f9e7-6569-46ff-9153-ae57bc18348d" width="30"> | Light Pink | `#FAB7C4` |
-|<img src="https://github.com/user-attachments/assets/07d33547-5e14-42dc-8c65-18cb68cd7d82" width="30"> | Pink | `#4E3827` |
-|<img src="https://github.com/user-attachments/assets/d56e2409-0464-4526-a680-b72f947a7da4" width="30"> | Light Blue | `#FFBA7F` |
-|<img src="https://github.com/user-attachments/assets/d56e2409-0464-4526-a680-b72f947a7da4" width="30"> | Blue | `#FFBA7F` |
-|<img src="https://github.com/user-attachments/assets/d56e2409-0464-4526-a680-b72f947a7da4" width="30"> | Green | `#FFBA7F` |
+|     | Color | Hex | RGB | 
+|----| --- | ----------- | ------- |
+|<img src="https://github.com/user-attachments/assets/defc9070-5323-4759-98a4-3fb69d1d8e4e" width="30">| Purple | `#cdb4db`| `205, 180, 219` |
+|<img src="https://github.com/user-attachments/assets/115020c2-7e8f-4976-ab53-322fe577c56e" width="30"> | Light Pink | `#FAB7C4` | `255, 200, 221`|
+|<img src="https://github.com/user-attachments/assets/c81edbfb-fcab-4bc4-8071-05e1d25303b3" width="30"> | Pink | `#4E3827` | `255, 175, 204` |
+|<img src="https://github.com/user-attachments/assets/33f51f25-d452-466b-bee6-13796e19d748" width="30"> | Light Blue | `#FFBA7F` | `189, 224, 254`|
+|<img src="https://github.com/user-attachments/assets/567e92c5-4912-4bb5-b038-175461ab9efa" width="30"> | Blue | `#FFBA7F` | `162, 210, 255`|
+|<img src="https://github.com/user-attachments/assets/35c2c606-7a17-4b05-b4f7-2db7c4dd8525" width="30"> | Green | `#C3FF55` | `195, 255, 85`|
 
 ## General Information
 - This website was my first introduction to HTML and CSS, it served as a good learning experience 
