@@ -1,3 +1,6 @@
+<h3 align="center">
+ <img src="https://imgur.com/a/KPm7zWp" width="100" alt"Sugar Star Planetarium">
+</h3>
 # Sugar Star Planetarium
 > A little guide to constellations. Inspired by OMORI, made for HackClub Boba Drops.
 > Hosted on Github Pages: [_over here_](https://information-fiend.github.io/sugar-star-planetarium/).
