@@ -1,12 +1,12 @@
-<h3 align="center">
- <img src="https://imgur.com/a/KPm7zWp" width="100" alt"Sugar Star Planetarium">
-</h3>
-# Sugar Star Planetarium
+<h2 align="center">
+ <img src="https://github.com/user-attachments/assets/31f87fb2-e2a3-49ea-b5d0-f328bafb8ccd" width="100" alt"Sugar Star Planetarium"><br/>
+ <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+ Sugar Star Planetarium
+</h2>
+&nbsp;
+
 > A little guide to constellations. Inspired by OMORI, made for HackClub Boba Drops.
 > Hosted on Github Pages: [_over here_](https://information-fiend.github.io/sugar-star-planetarium/).
- <p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
-</p>
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -48,3 +48,7 @@ To do:
 ## Credits
 Crafted by [@information-fiend](https://github.com/information-fiend)
 <br>Read Me by [@ritaly](https://github.com/ritaly)
+
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
+</p>
