@@ -19,7 +19,7 @@
 
 ## 📷 Image
 <p align="center"> 
- <img src="https://github.com/user-attachments/assets/67bbda99-8803-4854-bc8a-0ccd8663ca3d" height="500" alt="Website preview">
+ <img src="https://github.com/user-attachments/assets/67bbda99-8803-4854-bc8a-0ccd8663ca3d" height="100%" width="100%" alt="Website preview">
 </p>
 
 ## 🎨 Pallete 
