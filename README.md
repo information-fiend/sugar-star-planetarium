@@ -41,7 +41,7 @@
 - Canva
 
 ## Project Status
-Project is: _in progress_ 
+Project is: _done_ 
 
 ## Room for Improvement
 Areas I believe need improvement / could be improved. TODOs for future development.
